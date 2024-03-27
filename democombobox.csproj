@@ -98,9 +98,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
-    <Resource Include="icon\arrows.png" />
+    <Resource Include="Icons\down_arrow_disable .png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Icons\down.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
